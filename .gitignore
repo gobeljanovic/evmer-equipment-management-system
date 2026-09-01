@@ -1,4 +1,5 @@
 evmer-service/files/
+target/
 .env
 .env.*
-!.env.exampletarget/
+!.env.example
