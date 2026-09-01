@@ -2,7 +2,7 @@
 
 EVMER is a full-stack web application for managing an organization's equipment throughout its operational lifecycle. It brings equipment records, assignments, reservations, calibrations, fault reports, user administration, and activity history into one system.
 
-The application was developed for the needs of the **Mihajlo Pupin Institute** by a team of **four student interns** during their internship. This repository contains a sanitized project snapshot published with the company's permission.
+The application was developed from the ground up for the needs of the **Mihajlo Pupin Institute** by a team of **four student interns**. The entire two-month internship was centered on designing, implementing, and completing this system. This repository contains a sanitized project snapshot published with the company's permission.
 
 ## Key features
 
@@ -130,11 +130,18 @@ The Spring Boot configuration is prepared to serve the generated frontend files 
 - Review allowed CORS origins and mailing configuration before deployment.
 - Replace example credentials with environment-specific values.
 
-## Project context
+## Team and internship context
 
-This project was created as part of a student internship for the **Mihajlo Pupin Institute**. It was designed and implemented collaboratively by a four-person student team in response to the Institute's equipment-management requirements.
+This system was the central focus of a two-month student internship at the **Mihajlo Pupin Institute**. The four-person team created the project from scratch and worked on it throughout the internship until the application was completed.
 
-The repository is intended to demonstrate the team's engineering work and the resulting application. Company-specific credentials, runtime data, uploaded files, and private configuration are not included.
+The responsibilities were divided as follows:
+
+- **Backend:** Djordje and Tijana
+- **Frontend:** Nevena and Nikola
+
+The application was designed and implemented in response to the Institute's equipment-management requirements, with close collaboration between the backend and frontend teams throughout development.
+
+This repository is intended to demonstrate the team's engineering work and the resulting application. Company-specific credentials, runtime data, uploaded files, and private configuration are not included.
 
 ## License
 
